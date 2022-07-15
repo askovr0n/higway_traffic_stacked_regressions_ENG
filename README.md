@@ -6,3 +6,6 @@
 - The process of building the optimal model was based on **backward selection** in which insignificant variables with the highest p-value (significance level = 0.05) were dropped
 - Performance was checked on 4 different algorithms: **Support Vector Regressor, Lasso/Ridge Regression and Elastic Net**
 - In order to balance the results, the **StackingRegressor** algorithm was used, were Elastic Net was the **meta** regressor
+
+#### Distribution of traffic per hour
+![](https://github.com/askovr0n/Portfolio/blob/main/images/Project_10/hour_dist.png)
