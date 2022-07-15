@@ -1,4 +1,4 @@
-Project 10 ENG: Traffic on highway
+# Project 10 ENG: Traffic on highway
 
 - The aim of this project is to explain the traffic on one of the highways for one-hourly intervals based on the training sample and generate predictions for all observations from the test sample
 - Due to university requirements, the metric that was used to measure the predictive power of the model was **MAPE** (final score - 29%)
